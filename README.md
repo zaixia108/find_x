@@ -1,5 +1,7 @@
 # find_x
 
+安装 pip install find_zx
+
 'left': l,
 'top': t,
 'width': w,
